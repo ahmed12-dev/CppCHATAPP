@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ahmed Rediwan\OneDrive\Desktop\C++chatapp\client\client\main.cpp(41,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> C:\Users\Ahmed Rediwan\OneDrive\Desktop\C++chatapp\client\x64\Debug\client.exe
